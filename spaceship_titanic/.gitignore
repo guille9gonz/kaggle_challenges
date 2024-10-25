@@ -1,2 +1,3 @@
 gbc_model.joblib
-datasets
+datasets/
+__pycache__
