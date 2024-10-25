@@ -1,3 +1,6 @@
 gbc_model.joblib
+leave_deck.joblib
+leave_route.joblib
+leave_surname.joblib
 datasets/
 __pycache__
