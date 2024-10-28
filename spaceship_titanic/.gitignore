@@ -3,3 +3,4 @@ scaler.joblib
 datasets/
 __pycache__
 spaceship_titanic_submission.csv
+space_titanic_sub.csv
