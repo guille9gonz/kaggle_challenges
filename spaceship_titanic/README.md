@@ -6,8 +6,8 @@ While rounding Alpha Centauri en route to its first destination—the torrid 55 
 To help rescue crews and retrieve the lost passengers, you are challenged to predict which passengers were transported by the anomaly using records recovered from the spaceship’s damaged computer system.
 
 ### Project structure
-**``model.ipynb``**: Training data analysis and preprocessing. Various models built and trained, and selected the best.  
-**``predictions.ipynb``**: Testing data preprocessing, predictions and submission.  
+**``model``**: Training data analysis and preprocessing. Various models built and trained, and selected the best.  
+**``predictions``**: Testing data preprocessing, predictions and submission.  
 **``cat_utils.py``**: Functions to handle categorical columns in testing same way as in training.  
 **``num_utils.py``**: Functions to handle numerical columns in testing same way as in training.  
 **``model2``**: Different preprocessing that increased the score for the test dataset.  
