@@ -13,5 +13,5 @@ To help rescue crews and retrieve the lost passengers, you are challenged to pre
 
 ### Results and conclusions:
 Several ensemble models were trained and got really a good ``accuracy_score``, from 77.97% to 100%. Finally the Histogram-Based Gradient Boosting model was selected for the submission with a 100% of accuracy in training.  
-The Kaggle submission scored **64%**, possibly due to improper test data processing or data leakage during training.
+The Kaggle submission scored **64%**, possibly due to improper test data processing or data leakage during training.  
 (**new!**) Created a new notebook with a different treatment of the datasets. Obtained a 80.25% of accuracy in training and **77.99%** in testing
