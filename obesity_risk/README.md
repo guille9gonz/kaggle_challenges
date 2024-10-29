@@ -6,5 +6,5 @@ The goal of this competition is to use various factors to predict obesity risk i
 **``model2``**: Working on it...
 
 ### Results
-First model (Histogram-Based Gradient Boosting) scored 89.87% in training and **90.28%** at the submission CSV.
+First model (Histogram-Based Gradient Boosting) scored 89.87% in training and **90.28%** in the submission.
 Accuracy could be improved with minor adjustments to data preprocessing.
